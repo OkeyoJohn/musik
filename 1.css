@@ -1,0 +1,35 @@
+container{
+    text-wrap: 10px;
+    padding: 10px; 
+    background-color: rgb(251, 255, 0);
+    font-style: oblique;
+    border-radius: 50px;
+    margin-left: auto;
+    flex: auto;
+
+    
+}
+h1{
+    /* padding: 10px; */
+    color: antiquewhite;
+}
+h3{
+    color: aliceblue;
+    font-style: oblique;
+    /* padding: 10px; */
+    
+}
+img{
+    float: left;
+    width: 20%;
+    border-radius: 100px;
+    margin-top: 40px;
+}
+body{
+    background-color: black;
+}
+h4{
+    /* font-weight: ; */
+    font-style: italic;
+    color: aliceblue;
+}
